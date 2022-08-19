@@ -1,0 +1,19 @@
+header{
+    background-color: cadetblue;
+    height: 200px;
+}
+
+main{
+    background-color: blueviolet;
+    height: 500px;
+}
+
+aside{
+    background-color: coral;
+    height: 500px;
+}
+
+footer{
+    background-color: green;
+    height: 100px;
+}
